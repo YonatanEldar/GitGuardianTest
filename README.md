@@ -1,3 +1,3 @@
 # GitGuardianTest
 
-## Another line
+## Another
